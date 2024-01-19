@@ -1,0 +1,89 @@
+{
+  
+  
+  "books": [
+    {
+      "id": "9781593275846",
+      "title": "Eloquent JavaScript, Second Edition",
+      "auther": "Marijn Haverbeke",
+      "published": "2014-12-14T00:00:00.000Z",
+      "pages": 472
+    },
+    {
+      "id": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "auther": "Addy Osmani",
+      "published": "2012-07-01T00:00:00.000Z",
+      "pages": 254
+    },
+    {
+      "id": "9781449365035",
+      "title": "Speaking JavaScript",
+      "author": "Axel Rauschmayer",
+      "published": "2014-02-01T00:00:00.000Z",
+      "pages": 460
+    },
+    {
+      "isbn": "9781491950296",
+      "title": "Programming JavaScript Applications",
+      "auther": "Eric Elliott",
+      "published": "2014-07-01T00:00:00.000Z",
+      "pages": 254
+    },
+    {
+      "id": "9781593277574",
+      "title": "Understanding ECMAScript 6",
+      "auther": "Nicholas C. Zakas",
+      "published": "2016-09-03T00:00:00.000Z",
+      "pages": 352
+    },
+    {
+      "id": "9781491904244",
+      "title": "You Don't Know JS",
+      "auther": "Kyle Simpson",
+      "published": "2015-12-27T00:00:00.000Z",
+      "pages": 278
+    },
+    {
+      "id": "9781449325862",
+      "title": "Git Pocket Guide",
+      "auther": "Richard E. Silverman",
+      "published": "2013-08-02T00:00:00.000Z",
+      "pages": 234
+    },
+    {
+      "id": "9781449337711",
+      "title": "Designing Evolvable Web APIs with ASP.NET",
+      "auther": "Glenn Block, et al.",
+      "published": "2014-04-07T00:00:00.000Z",
+      "pages": 538
+    }
+  ],
+
+  "register": [
+    {
+      "id": "ff78",
+      "username": "obid",
+      "email": "okenjayev2192@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "eb10",
+      "username": "obidkenja",
+      "email": "obidkenjaev2192@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6c31",
+      "username": "obid",
+      "email": "okenjayev2192@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "f3b7",
+      "username": "a",
+      "email": "a",
+      "password": "a"
+    }
+  ]
+}
